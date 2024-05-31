@@ -1,0 +1,5 @@
+package com.spring.security.jwt.three.entity;
+
+public class User {
+
+}

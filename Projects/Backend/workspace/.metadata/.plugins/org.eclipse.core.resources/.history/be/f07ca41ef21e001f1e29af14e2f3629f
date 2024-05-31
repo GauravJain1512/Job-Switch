@@ -1,0 +1,9 @@
+package com.spring.security.jwt.three.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.spring.security.jwt.three.entity.User;
+
+public interface UserRepository extends JpaRepository<User, Long> {
+
+}

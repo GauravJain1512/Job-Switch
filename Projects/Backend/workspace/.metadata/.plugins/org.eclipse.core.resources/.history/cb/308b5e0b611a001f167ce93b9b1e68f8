@@ -1,0 +1,5 @@
+package com.spring.security.jwt.two.security;
+
+public class JwtFilter {
+
+}

@@ -1,0 +1,9 @@
+package com.spring.security.jwt.three.entity;
+
+public enum Role {
+	ADMIN,
+	SELLER,
+	CONSUMER,
+	
+	
+}
